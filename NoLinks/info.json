@@ -1,0 +1,17 @@
+{
+	"author": [
+		"RatBot Dev Team" , "Aikatera"
+	],
+	"description": "Removes links to prevent virus spreading",
+    "install_msg": "Thanks for installing. Use `[p]nolinks` to get started.",
+    "min_python_version": [3, 6, 0],
+    "permissions" : [
+		"manage_messages"
+	],
+	"short": "No links allowed.",
+	"tags": [
+		"links",
+        "automod"
+	],
+	"type": "COG"
+}
