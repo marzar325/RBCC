@@ -1,6 +1,6 @@
 {
 	"author": [
-		"RatBot Dev Team" , "Aikatera"
+		"RatBot Dev Team"
 	],
 	"description": "Removes links to prevent virus spreading",
     "install_msg": "Thanks for installing. Use `[p]nolinks` to get started.",
